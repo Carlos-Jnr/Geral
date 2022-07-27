@@ -9,8 +9,6 @@
 ### JavaScript   
 ### Python   
 ### PowerBi
-### Tsesas                                                                                                                  
-
 
 
 📫  junior_crgj@hotmail.com
